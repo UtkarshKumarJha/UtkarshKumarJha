@@ -1,97 +1,71 @@
+<h1 align="center" style="color:#c9d1d9;">Hi 👋, I'm Utkarsh Kumar Jha</h1>
+
+
 <div align="center">
-
-<table border="0" width="100%">
-    <tr>
-        <td width="30%" align="center">
-            <img src="https://github.com/UtkarshKumarJha.png" width="200" style="border-radius: 50%;" alt="Utkarsh Profile">
-        </td>
-        <td width="70%">
-            <h1>Hi 👋, I'm Utkarsh Kumar Jha</h1>
-            <h3>🚀 AI Enthusiast | Full Stack Developer | IoT Tinkerer</h3>
-            <br>
-            <a href="https://www.linkedin.com/in/utkarsh-kumar-jha-993773284">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-            </a>
-            <a href="mailto:utk.kumarjha@gmail.com">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-            </a>
-            <a href="#">
-                <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
-            </a>
-        </td>
-    </tr>
-</table>
-
+  <img height="155" src="https://backiee.com/static/wallpapers/560x315/401721.jpg"  />
 </div>
 
-###
-
-## ⚡ About Me
-
-I'm a **Computer Science & Engineering** undergraduate passionate about the intersection of **Artificial Intelligence** and **Embedded Systems**. I love building systems that bridge the gap between software and the physical world.
-
-* 🔭 I’m currently working on **InsightInvest**, an AI-powered financial analyst chatbot.
-* 🧠 I have a deep interest in **Machine Learning**, **Cryptography**, and **ARM Assembly**.
-* 🤖 I enjoy participating in hackathons (like **SIH** and **Yuv AI**) to solve real-world problems.
-* 💡 I’m exploring **Edge AI** and implementing models on microcontrollers like the **LPC17xx**.
-
 ---
-
-## 💻 Skills & Technologies
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+<h3 align="left">About Me:</h3>
+<p align="left">
+    I’m Utkarsh Kumar Jha, a Computer Science & Engineering undergraduate passionate about the intersection of Artificial Intelligence and Finance. My primary focus is on building systems that bridge the gap between software and real-world decision making. I am currently deeply involved in developing <b>Algorithmic Trading Bots</b> and exploring how <b>Reinforcement Learning</b> can be applied to the financial domain. Beyond finance, I have a strong interest in <b>RAG Architectures</b> and <b>Generative AI</b>, constantly experimenting with ways to make Large Language Modals more accurate and context-aware. I also enjoy participating in high-impact hackathons like <b>SIH</b> and <b>Yuv AI</b> to solve complex challenges.
 </p>
 
-### 🧠 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-### 🔌 Embedded & Tools
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/utkarsh-kumar-jha-993773284" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:utk.kumarjha@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Skills
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshKumarJha&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshKumarJha&layout=compact&langs_count=6&card_width=320&theme=react&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" height="180" alt="languages graph" />
-  
-  <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=UtkarshKumarJha&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&background=0D1117" height="180" alt="streak graph" />
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshKumarJha&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity-graph graph" />
+---
+
+### 🧠 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-blue?style=for-the-badge&logoColor=white)
+
+---
+
+### 🔁 Generative AI & LLMs  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge&logo=rag&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📊 Data Analysis  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge&logoColor=white)
+
+---
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌐 Web Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
+<h3 align="left">📊 GitHub Stats & Activity:</h3>
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UtkarshKumarJha.UtkarshKumarJha&"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshKumarJha&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="180px"/>
+   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshKumarJha&theme=github-dark" alt="GitHub Streak" height="180px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshKumarJha&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages (Compact)" height="180px"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshKumarJha&theme=nord_dark" alt="Profile Summary" height="180px"/>
+
 </div>
