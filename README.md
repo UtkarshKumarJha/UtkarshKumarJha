@@ -8,7 +8,7 @@
 ---
 <h3 align="left">About Me:</h3>
 <p align="left">
-    I’m Utkarsh Kumar Jha, a Computer Science & Engineering undergraduate passionate about the intersection of Artificial Intelligence and Finance. My primary focus is on building systems that bridge the gap between software and real-world decision making. I am currently deeply involved in developing <b>Algorithmic Trading Bots</b> and exploring how <b>Reinforcement Learning</b> can be applied to the financial domain. Beyond finance, I have a strong interest in <b>RAG Architectures</b> and <b>Generative AI</b>, constantly experimenting with ways to make Large Language Modals more accurate and context-aware. I also enjoy participating in high-impact hackathons like <b>SIH</b> and <b>Yuv AI</b> to solve complex challenges.
+    I’m Utkarsh Kumar Jha, a Computer Science & Engineering undergraduate passionate about the intersection of Artificial Intelligence and Finance. My primary focus is on building systems that bridge the gap between software and real-world decision making. I am currently deeply involved in developing <b>Algorithmic Trading Bots</b> and exploring how <b>Reinforcement Learning</b> can be applied to the financial domain. Beyond finance, I have a strong interest in <b>RAG Architectures</b> and <b>Generative AI</b>, constantly experimenting with ways to make Large Language Modals more accurate and context-aware.
 </p>
 
 <h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
